@@ -1,11 +1,9 @@
 /**
  * File Name: DriverType.java<br>
- * Nepton, Jean-francois<br>
- * Java Boot Camp Exercise<br>
- * Instructor: Jean-francois Nepton<br>
+ * Finberg, Gelena<br>
  * Created: Feb 19, 2016
  */
-package com.sqa.jf.auto.config;
+package com.sqa.gf.auto.config;
 
 import java.util.*;
 
@@ -24,7 +22,7 @@ import org.openqa.selenium.safari.*;
  * <p>
  * //ADDD (description of core methods)
  *
- * @author Nepton, Jean-francois
+ * @author Finberg, Gelena
  * @version 1.0.0
  * @since 1.0
  */
