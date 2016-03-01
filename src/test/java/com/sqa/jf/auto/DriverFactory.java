@@ -1,11 +1,9 @@
 /**
  * File Name: DriverFactory.java<br>
- * Nepton, Jean-francois<br>
- * Java Boot Camp Exercise<br>
- * Instructor: Jean-francois Nepton<br>
+ * Finberg, Gelena<br>
  * Created: Feb 18, 2016
  */
-package com.sqa.jf.auto;
+package com.sqa.gf.auto;
 
 import java.util.*;
 
@@ -19,7 +17,7 @@ import org.testng.annotations.*;
  * <p>
  * //ADDD (description of core methods)
  *
- * @author Nepton, Jean-francois
+ * @author Finberg, Gelena
  * @version 1.0.0
  * @since 1.0
  */
