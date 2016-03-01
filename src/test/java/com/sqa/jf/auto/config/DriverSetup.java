@@ -3,7 +3,7 @@
  * Finberg, Gelena<br>
  * Created: Feb 19, 2016
  */
-package com.sqa.jf.auto.config;
+package com.sqa.gf.auto.config;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.remote.*;
