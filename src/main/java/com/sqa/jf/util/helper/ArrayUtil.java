@@ -1,11 +1,9 @@
 /**
  * File Name: Arrays.java<br>
- * Nepton, Jean-francois<br>
- * Java Boot Camp Exercise<br>
- * Instructor: Jean-francois Nepton<br>
+ * Finberg, Gelena<br>
  * Created: Feb 10, 2016
  */
-package com.sqa.jf.util.helper;
+package com.sqa.gf.util.helper;
 
 import java.util.*;
 
@@ -16,7 +14,7 @@ import java.util.*;
  * <p>
  * //ADDD (description of core methods)
  *
- * @author Nepton, Jean-francois
+ * @author Finberg, Gelena
  * @version 1.0.0
  * @since 1.0
  */
