@@ -22,4 +22,4 @@ Advanced Automation Framework for Java Selenium WebDriver Automation Tests
 * Support for Multi-Threads
 * Support for Multi-Browsers Runs
   
-[Jean-francois Nepton](http://jfbuilds.com)
+[Gelena Finberg](http://gfbuilds.com)
