@@ -1,8 +1,6 @@
 /**
  * File Name: DriverSetup.java<br>
- * Nepton, Jean-francois<br>
- * Java Boot Camp Exercise<br>
- * Instructor: Jean-francois Nepton<br>
+ * Finberg, Gelena<br>
  * Created: Feb 19, 2016
  */
 package com.sqa.jf.auto.config;
@@ -17,7 +15,7 @@ import org.openqa.selenium.remote.*;
  * <p>
  * //ADDD (description of core methods)
  *
- * @author Nepton, Jean-francois
+ * @author Finberg, Gelena
  * @version 1.0.0
  * @since 1.0
  */
