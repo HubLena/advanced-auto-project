@@ -5,17 +5,17 @@
  * Instructor: Jean-francois Nepton<br>
  * Created: Feb 18, 2016
  */
-package com.sqa.jf.auto;
+package com.sqa.gf.auto;
+
+import static com.sqa.gf.auto.config.DriverType.FIREFOX;
+import static com.sqa.gf.auto.config.DriverType.valueOf;
 
 import java.net.*;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.remote.*;
 
-import com.sqa.jf.auto.config.*;
-
-import static com.sqa.jf.auto.config.DriverType.FIREFOX;
-import static com.sqa.jf.auto.config.DriverType.valueOf;
+import com.sqa.gf.auto.config.*;
 
 
 /**
